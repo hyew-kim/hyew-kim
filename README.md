@@ -12,7 +12,7 @@
   "interest": {
     "sports": "climbing",
     "development": [
-      "DDD",
+      "Event-Driven Engineering",
       "Data Modeling",
       "OOP"
     ]
